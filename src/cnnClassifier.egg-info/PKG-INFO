@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Shivani622/KidneyDiseaseClassification
+Author: Shivani622
+Author-email: shivani080202@gmail.com
+Project-URL: Bug Tracker, https://github.com/Shivani622/KidneyDiseaseClassification/issues
+
+Kidney Disease Classification
